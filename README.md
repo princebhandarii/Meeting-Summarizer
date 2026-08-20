@@ -126,6 +126,4 @@ Upload a meeting recording, optionally add context (e.g. "Weekly product marketi
 - Meeting length shown in the app reflects actual audio duration, not an estimate
 - All LLM prompts are written to stay grounded in the transcript to reduce hallucination, especially for Q&A
 
-## License
 
-Add your preferred license here (e.g. MIT).
