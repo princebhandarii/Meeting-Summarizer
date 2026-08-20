@@ -59,7 +59,7 @@ meeting-summarizer/
 ### 1. Clone and enter the project
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/princebhandarii/Meeting-Summarizer.git
 cd meeting-summarizer
 ```
 
