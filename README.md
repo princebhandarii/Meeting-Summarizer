@@ -1,5 +1,6 @@
 # Meeting Summarizer
 
+# Live Link : https://meeting-summarizer-by-princebhandari22.streamlit.app
 An AI-powered meeting assistant that turns raw meeting audio into a structured, actionable record — transcript, summary, action items, decisions, and a ready-to-send follow-up email — all from a single Streamlit app.
 
 ## Features
