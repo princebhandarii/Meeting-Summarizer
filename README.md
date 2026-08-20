@@ -36,8 +36,7 @@ meeting-summarizer/
 ├── .env.example
 ├── .gitignore
 ├── .streamlit/
-│   └── config.toml            # Dark theme config
-├── sample_audio/              # Drop a test recording here
+│   └── config.toml           
 └── utils/
     ├── audio_handler.py       # Temp file save/cleanup for uploads
     ├── audio_player.py        # Custom HTML5 player synced to transcript timestamps
