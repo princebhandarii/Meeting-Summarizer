@@ -3,6 +3,14 @@
 # Live Link : 
 https://meeting-summarizer-by-princebhandari22.streamlit.app
 
+> ⚠️ **Note:** Sometimes the site may go down or get throttled due to too much CPU/resources usage. For best performance, **run it on your local machine**.
+
+# Preview
+
+https://github.com/user-attachments/assets/31f80c04-6da3-4341-abb4-105c46b4e078
+
+
+
 An AI-powered meeting assistant that turns raw meeting audio into a structured, actionable record — transcript, summary, action items, decisions, and a ready-to-send follow-up email — all from a single Streamlit app.
 
 ## Features
